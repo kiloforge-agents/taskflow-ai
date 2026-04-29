@@ -226,6 +226,4 @@ export function useTaskflow() {
     reset,
     update,
   };
-
-  };
 }
